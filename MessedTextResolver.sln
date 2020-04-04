@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessedTextResolver", "MessedTextResolver\MessedTextResolver.csproj", "{45A069C0-FEAC-4AB3-BC98-D2DD765A1C4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45A069C0-FEAC-4AB3-BC98-D2DD765A1C4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45A069C0-FEAC-4AB3-BC98-D2DD765A1C4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45A069C0-FEAC-4AB3-BC98-D2DD765A1C4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45A069C0-FEAC-4AB3-BC98-D2DD765A1C4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB085CE3-8DC4-4116-AD82-5BD63F386976}
+	EndGlobalSection
+EndGlobal
